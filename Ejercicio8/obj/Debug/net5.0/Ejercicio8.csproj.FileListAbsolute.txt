@@ -1,0 +1,16 @@
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.AssemblyInfo.cs
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\bin\Debug\net5.0\Ejercicio8.exe
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\bin\Debug\net5.0\Ejercicio8.deps.json
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\bin\Debug\net5.0\Ejercicio8.runtimeconfig.json
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\bin\Debug\net5.0\Ejercicio8.runtimeconfig.dev.json
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\bin\Debug\net5.0\Ejercicio8.dll
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\bin\Debug\net5.0\ref\Ejercicio8.dll
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\bin\Debug\net5.0\Ejercicio8.pdb
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.dll
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\ref\Ejercicio8.dll
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.pdb
+C:\Users\Gyovanny\Desktop\Programas\Ejercicio8\obj\Debug\net5.0\Ejercicio8.genruntimeconfig.cache
